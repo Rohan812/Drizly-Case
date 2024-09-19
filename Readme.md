@@ -18,7 +18,7 @@ An Excel file used for the data analysis. It includes data tables, pivot tables,
 **Report File (Drizly Case Solutions):**
 The final report providing detailed solutions to the questions. It includes:
 
-Executive summary of the case
-Data insights and interpretations
-Solutions to the questions based on the analysis
-Recommendations and conclusions
+* Executive summary of the case
+* Data insights and interpretations
+* Solutions to the questions based on the analysis
+* Recommendations and conclusions
