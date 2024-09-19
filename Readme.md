@@ -9,7 +9,7 @@ Project Title: Drizly Case
 **Case File (Drizly Case (Info).docx):**
 This document outlines the case scenario and provides the necessary context for the analysis. It details the background, objectives, and challenges to be addressed.
 
-**Questions File (Drizly Case Questions):**
+**Questions File (Drizly Case Questions.pdf):**
 This file contains the questions derived from the case file. The questions guide the analysis and problem-solving process, covering various aspects of the case study.
 
 **Data Analysis File (Drizly Case (Data Analysis).xlxs):**
